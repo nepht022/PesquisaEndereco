@@ -9,8 +9,6 @@
 <p align="center">Preview da pesquisa (Zoom: 100%)</p>
 <img src="/public/preview/PesquisaEndereco-Pesquisa-Preview.png">
 
-[Clique AQUI para acessar](https://nepht022.github.io/PesquisaEndereco/public/index.html)
-
 ## Ferramentas
 
 - HTML
